@@ -96,6 +96,7 @@ for i in profile.contents[2:]:
 
 digicore = {
     'name':digimon_of_name,
+    'name_link': digimon_name,
     'x_antibody':[x_antibody,x_antibody_add],
     'level':level,
     'type': type_d,
