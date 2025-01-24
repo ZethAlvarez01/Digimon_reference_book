@@ -5,7 +5,7 @@ import requests
 url = 'https://digimon.net/reference_en/detail.php?directory_name='
 
 digimon_name = 'beelstarmon_x'
-digimon_name = 'gaioumon_itto'
+digimon_name = 'chaosdramon-x'
 #digimon_name = 'jougamon'
 #digimon_name = 'erlangmon_blast'
 #digimon_name = 'xiquemon'
